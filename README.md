@@ -64,6 +64,6 @@ iPlag is an intelligent plagiarism detection software designed to maintain acade
 
 - 🌟 **[Visit Our Website](https://iplag.lordsignet.org)**
 - 📧 **[Email Us](mailto:rocklinganayo@lordsignet.org)**
-   **[Follow Us on linkdln](https://www.linkedin.com/in/anayo-rockling-5b9653185?trk=contact-info)**
+- **[Follow Us on linkdln](https://www.linkedin.com/in/anayo-rockling-5b9653185?trk=contact-info)**
 
 Remember, iPlag isn't just software; it's a commitment to academic integrity. Let's keep knowledge pure and ideas thriving. 🌟
